@@ -1,5 +1,5 @@
 # Pocket Dictonary App 
-![image](https://user-images.githubusercontent.com/90602027/164909750-ef37a5cc-4ef8-45bc-8178-a9cd6138cc4d.png)
+![logo2 (1)](https://user-images.githubusercontent.com/90602027/164910781-7695c602-f05e-4ee6-9bf9-c961885b9561.png)
 
 An app for students to find appropriate meanings for their words with examples and their grammetical form (eg. Noun, Verb)
 
